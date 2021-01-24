@@ -1,6 +1,1 @@
-# github_practice
-
-## 見出し２
-
-- リスト１
-- リスト２
+git_practice
